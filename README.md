@@ -1,5 +1,5 @@
 # tysk-chrome
-Unofficial (and non-maintained Things You Should Know app wrapper for Google Chrome.
+Unofficial (and non-maintained) Things You Should Know app wrapper for Google Chrome.
 
 ## Usage
 
